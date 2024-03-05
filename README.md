@@ -13,7 +13,9 @@ How do you reset a USB device from the command line -->
 https://askubuntu.com/questions/645/how-do-you-reset-a-usb-device-from-the-command-line
 
 Free Icons & Symbols -->
+
 https://www.flaticon.com/
 
 Interface design -->
+
 https://www.figma.com/
