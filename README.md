@@ -19,3 +19,11 @@ https://www.flaticon.com/
 Interface design -->
 
 https://www.figma.com/
+
+How to Expand or Increase Ubuntu Virtual Disk in VMware Workstation -->
+
+https://youtu.be/kTEsbS1FbUU?si=5o9VTRF7TuJROuGf
+
+Increase Hard disk size inside Virtual box for Ubuntu 22.04.2 -->
+
+https://youtu.be/nY4Xhsoy7kU?si=nOsVDew94Rz-7gFq
