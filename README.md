@@ -27,3 +27,7 @@ https://youtu.be/kTEsbS1FbUU?si=5o9VTRF7TuJROuGf
 Increase Hard disk size inside Virtual box for Ubuntu 22.04.2 -->
 
 https://youtu.be/nY4Xhsoy7kU?si=nOsVDew94Rz-7gFq
+
+Share Files Between Linux Machines Over a Network -->
+
+https://www.baeldung.com/linux/share-files-linux-network
