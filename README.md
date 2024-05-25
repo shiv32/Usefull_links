@@ -31,3 +31,9 @@ https://youtu.be/nY4Xhsoy7kU?si=nOsVDew94Rz-7gFq
 Share Files Between Linux Machines Over a Network -->
 
 https://www.baeldung.com/linux/share-files-linux-network
+
+Logout of ssh and then suspend machine -->
+
+https://askubuntu.com/questions/893056/logout-of-ssh-and-then-suspend-machine
+
+
