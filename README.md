@@ -40,4 +40,10 @@ VS Code CMake setup on Linux -->
 
 https://code.visualstudio.com/docs/cpp/cmake-linux
 
+VS Code C++ Create Definitions and Declarations -->
+
+https://devblogs.microsoft.com/cppblog/vs-code-c-extension-january-update-create-definitions-and-declarations/
+
+
+
 
