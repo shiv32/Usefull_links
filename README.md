@@ -36,4 +36,8 @@ Logout of ssh and then suspend machine -->
 
 https://askubuntu.com/questions/893056/logout-of-ssh-and-then-suspend-machine
 
+VS Code CMake setup on Linux -->
+
+https://code.visualstudio.com/docs/cpp/cmake-linux
+
 
