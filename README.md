@@ -46,7 +46,9 @@ https://devblogs.microsoft.com/cppblog/vs-code-c-extension-january-update-create
 
 VS Code extension for cmake format -->
 
-https://marketplace.visualstudio.com/items?itemName=xaver.clang-format
+[https://marketplace.visualstudio.com/items?itemName=xaver.clang-format](https://marketplace.visualstudio.com/items?itemName=josetr.cmake-language-support-vscode)
+
+Note -> Restart VS Code after extensions install.
 
 
 
