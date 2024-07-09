@@ -50,6 +50,10 @@ VS Code extension for cmake format -->
 
 Note -> Restart VS Code after extensions install.
 
+Visual Studio Code C++ Disassembly View -->
+
+https://devblogs.microsoft.com/cppblog/visual-studio-code-c-july-2021-update-disassembly-view-macro-expansion-and-windows-arm64-debugging/
+
 
 
 
