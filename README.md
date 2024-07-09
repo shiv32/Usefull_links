@@ -54,6 +54,10 @@ Visual Studio Code C++ Disassembly View -->
 
 https://devblogs.microsoft.com/cppblog/visual-studio-code-c-july-2021-update-disassembly-view-macro-expansion-and-windows-arm64-debugging/
 
+Visual Studio Code C++ Disassembly View extension -->
+
+https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
+
 
 
 
